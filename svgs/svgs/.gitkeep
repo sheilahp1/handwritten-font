@@ -4,13 +4,38 @@
   "C": ["C_01.svg", "C_02.svg", "C_03.svg", "C_04.svg", "C_05.svg", "C_06.svg", "C_07.svg", "C_08.svg", "C_09.svg", "C_10.svg"],
   "D": ["D_01.svg", "D_02.svg", "D_03.svg", "D_04.svg", "D_05.svg", "D_06.svg", "D_07.svg", "D_08.svg", "D_09.svg", "D_10.svg"],
   "E": ["E_01.svg", "E_02.svg", "E_03.svg", "E_04.svg", "E_05.svg", "E_06.svg", "E_07.svg", "E_08.svg", "E_09.svg", "E_10.svg"],
-  ...
+  "F": ["F_01.svg", "F_02.svg", "F_03.svg", "F_04.svg", "F_05.svg", "F_06.svg", "F_07.svg", "F_08.svg", "F_09.svg", "F_10.svg"],
+  "G": ["G_01.svg", "G_02.svg", "G_03.svg", "G_04.svg", "G_05.svg", "G_06.svg", "G_07.svg", "G_08.svg", "G_09.svg", "G_10.svg"],
+  "H": ["H_01.svg", "H_02.svg", "H_03.svg", "H_04.svg", "H_05.svg", "H_06.svg", "H_07.svg", "H_08.svg", "H_09.svg", "H_10.svg"],
+  "I": ["I_01.svg", "I_02.svg", "I_03.svg", "I_04.svg", "I_05.svg", "I_06.svg", "I_07.svg", "I_08.svg", "I_09.svg", "I_10.svg"],
+  "J": ["J_01.svg", "J_02.svg", "J_03.svg", "J_04.svg", "J_05.svg", "J_06.svg", "J_07.svg", "J_08.svg", "J_09.svg", "J_10.svg"],
+  "K": ["K_01.svg", "K_02.svg", "K_03.svg", "K_04.svg", "K_05.svg", "K_06.svg", "K_07.svg", "K_08.svg", "K_09.svg", "K_10.svg"],
+  "L": ["L_01.svg", "L_02.svg", "L_03.svg", "L_04.svg", "L_05.svg", "L_06.svg", "L_07.svg", "L_08.svg", "L_09.svg", "L_10.svg"],
+  "M": ["M_01.svg", "M_02.svg", "M_03.svg", "M_04.svg", "M_05.svg", "M_06.svg", "M_07.svg", "M_08.svg", "M_09.svg", "M_10.svg"],
+  "N": ["N_01.svg", "N_02.svg", "N_03.svg", "N_04.svg", "N_05.svg", "N_06.svg", "N_07.svg", "N_08.svg", "N_09.svg", "N_10.svg"],
+  "O": ["O_01.svg", "O_02.svg", "O_03.svg", "O_04.svg", "O_05.svg", "O_06.svg", "O_07.svg", "O_08.svg", "O_09.svg", "O_10.svg"],
+  "P": ["P_01.svg", "P_02.svg", "P_03.svg", "P_04.svg", "P_05.svg", "P_06.svg", "P_07.svg", "P_08.svg", "P_09.svg", "P_10.svg"],
+  "Q": ["Q_01.svg", "Q_02.svg", "Q_03.svg", "Q_04.svg", "Q_05.svg", "Q_06.svg", "Q_07.svg", "Q_08.svg", "Q_09.svg", "Q_10.svg"],
+  "R": ["R_01.svg", "R_02.svg", "R_03.svg", "R_04.svg", "R_05.svg", "R_06.svg", "R_07.svg", "R_08.svg", "R_09.svg", "R_10.svg"],
+  "S": ["S_01.svg", "S_02.svg", "S_03.svg", "S_04.svg", "S_05.svg", "S_06.svg", "S_07.svg", "S_08.svg", "S_09.svg", "S_10.svg"],
+  "T": ["T_01.svg", "T_02.svg", "T_03.svg", "T_04.svg", "T_05.svg", "T_06.svg", "T_07.svg", "T_08.svg", "T_09.svg", "T_10.svg"],
+  "U": ["U_01.svg", "U_02.svg", "U_03.svg", "U_04.svg", "U_05.svg", "U_06.svg", "U_07.svg", "U_08.svg", "U_09.svg", "U_10.svg"],
+  "V": ["V_01.svg", "V_02.svg", "V_03.svg", "V_04.svg", "V_05.svg", "V_06.svg", "V_07.svg", "V_08.svg", "V_09.svg", "V_10.svg"],
+  "W": ["W_01.svg", "W_02.svg", "W_03.svg", "W_04.svg", "W_05.svg", "W_06.svg", "W_07.svg", "W_08.svg", "W_09.svg", "W_10.svg"],
+  "X": ["X_01.svg", "X_02.svg", "X_03.svg", "X_04.svg", "X_05.svg", "X_06.svg", "X_07.svg", "X_08.svg", "X_09.svg", "X_10.svg"],
+  "Y": ["Y_01.svg", "Y_02.svg", "Y_03.svg", "Y_04.svg", "Y_05.svg", "Y_06.svg", "Y_07.svg", "Y_08.svg", "Y_09.svg", "Y_10.svg"],
+  "Z": ["Z_01.svg", "Z_02.svg", "Z_03.svg", "Z_04.svg", "Z_05.svg", "Z_06.svg", "Z_07.svg", "Z_08.svg", "Z_09.svg", "Z_10.svg"],
+
   "a": ["a_01.svg", "a_02.svg", "a_03.svg", "a_04.svg", "a_05.svg", "a_06.svg", "a_07.svg", "a_08.svg", "a_09.svg", "a_10.svg"],
   "b": ["b_01.svg", "b_02.svg", "b_03.svg", "b_04.svg", "b_05.svg", "b_06.svg", "b_07.svg", "b_08.svg", "b_09.svg", "b_10.svg"],
   ...
+  "z": ["z_01.svg", "z_02.svg", "z_03.svg", "z_04.svg", "z_05.svg", "z_06.svg", "z_07.svg", "z_08.svg", "z_09.svg", "z_10.svg"],
+
   "0": ["0_01.svg", "0_02.svg", "0_03.svg", "0_04.svg", "0_05.svg", "0_06.svg", "0_07.svg", "0_08.svg", "0_09.svg", "0_10.svg"],
   "1": ["1_01.svg", "1_02.svg", "1_03.svg", "1_04.svg", "1_05.svg", "1_06.svg", "1_07.svg", "1_08.svg", "1_09.svg", "1_10.svg"],
   ...
+  "9": ["9_01.svg", "9_02.svg", "9_03.svg", "9_04.svg", "9_05.svg", "9_06.svg", "9_07.svg", "9_08.svg", "9_09.svg", "9_10.svg"],
+
   "ligatures": {
     "th": ["th_01.svg", "th_02.svg", "th_03.svg"],
     "ch": ["ch_01.svg", "ch_02.svg", "ch_03.svg"],
